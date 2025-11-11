@@ -23,7 +23,7 @@ It allows **multi-brand selection**, adjustable limits, and provides **automated
 
 1. **Clone the repository:**  
 
-git clone http://..............
+git clone (https://github.com/ZonaZubair/Brand-Sentiment-Monitor.git)
 
 ---
 
@@ -47,12 +47,6 @@ pip install -r requirements.txt
 ## Launch the Streamlit app:
 
 streamlit run app.py
-
----
-
-## Open in your browser:
-
-(http://localhost:8501)
 
 ---
 
