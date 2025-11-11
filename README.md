@@ -13,7 +13,7 @@ It allows **multi-brand selection**, adjustable limits, and provides **automated
 ---
 
 ## 🌐 Live Demo
-[Check out the live app](https://redditsentiment..............)
+[Check out the live app](https://brand-sentiment-monitor-shj5xrhmcxxldqk2bxtnby.streamlit.app/)
 
 > Tested on Chrome and Firefox (desktop). Some mobile browsers may not fully support metrics display due to Streamlit layout limitations.
 
