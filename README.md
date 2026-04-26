@@ -60,24 +60,26 @@ For dependencies see requirements.txt
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/controls.png" width="400"/>
+      <img src="screenshots/home.png" width="400"/>
       <br/>
-      <b>🎛️ Brand Selection and Comment Limit Controls</b>
+      <b>🏠 Home Page — Brand Selection Interface</b>
     </td>
     <td align="center">
-      <img src="screenshots/summary.png" width="400"/>
+      <img src="screenshots/selection.png" width="400"/>
       <br/>
-      <b>📈 Sentiment Analysis Summary</b>
+      <b> 🎛️ Brand Selected with Comment Limit Applied</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/piechart.png" width="400"/>
+      <img src="screenshots/summary and piechart.png" width="400"/>
       <br/>
-      <b>🥧 Sentiment Distribution Pie Chart</b>
+      <b>📈 Sentiment Analysis Summary | 🥧 Sentiment Distribution Pie Chart</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="screenshots/wordclouds.png" width="400"/>
+      <img src="screenshots/wordclouds.png" width="450"/>
       <br/>
       <b>☁️ Positive and Negative Word Clouds</b>
     </td>
