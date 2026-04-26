@@ -27,23 +27,23 @@ It allows **multi-brand selection**, adjustable comment limits, and provides **a
 
 1. **Clone the repository:**  
 
-git clone (https://github.com/ZonaZubair/Brand-Sentiment-Monitor.git)
+    git clone (https://github.com/ZonaZubair/Brand-Sentiment-Monitor.git)
 
 2. **Create and activate a virtual environment:**
 
-python -m venv venv
+    python -m venv venv
 
 3. **Windows:**
 
-venv\Scripts\activate
+    venv\Scripts\activate
 
 4. **Install dependencies**
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 5. **Launch the Streamlit app:**
 
-streamlit run app.py
+    streamlit run app.py
 
 ---
 
