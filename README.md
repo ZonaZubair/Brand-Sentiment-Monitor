@@ -71,19 +71,19 @@ For dependencies see requirements.txt
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="screenshots/summary and piechart.png" width="400" align="center"/>
-      <br/>
-      <b>📈 Sentiment Analysis Summary | 🥧 Sentiment Distribution Pie Chart</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="screenshots/wordclouds.png" width="550" align="center"/>
-      <br/>
-      <b>☁️ Positive and Negative Word Clouds</b>
-    </td>
-  </tr>
+  <td colspan="2" align="center">
+    <img src="screenshots/summary and piechart.png" width="400"/>
+    <br/>
+    <b>📈 Sentiment Analysis Summary | 🥧 Sentiment Distribution Pie Chart</b>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center">
+    <img src="screenshots/wordclouds.png" width="550"/>
+    <br/>
+    <b>☁️ Positive and Negative Word Clouds</b>
+  </td>
+</tr>
 </table>
 
 
