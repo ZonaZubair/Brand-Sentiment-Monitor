@@ -39,11 +39,11 @@ It allows **multi-brand selection**, adjustable comment limits, and provides **a
 
 4. **Install dependencies**
 
-    pip install -r requirements.txt
+    pip install -r Brand_Sentiment_Analyzer/requirements.txt
 
 5. **Launch the Streamlit app:**
 
-    streamlit run app.py
+    streamlit run Brand_Sentiment_Analyzer/app.py
 
 ---
 
@@ -62,7 +62,7 @@ For dependencies see requirements.txt
     <td align="center">
       <img src="screenshots/home.png" width="400"/>
       <br/>
-      <b>🏠 Home Page — Brand Selection Interface</b>
+      <b>🏠 Home Page - Brand Selection Interface</b>
     </td>
     <td align="center">
       <img src="screenshots/selection.png" width="400"/>
@@ -85,5 +85,3 @@ For dependencies see requirements.txt
   </td>
 </tr>
 </table>
-
-
